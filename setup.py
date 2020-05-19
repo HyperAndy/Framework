@@ -13,7 +13,7 @@ LISENSE = 'License :: OSI Approved :: Apache Software License'
 # What packages are required for this module to be executed?
 REQUIRED = [
     # 'xxx', 'xxx', 'xxx',
-    'argparse', 'easydict', 'torch'
+    'argparse', 'easydict', 'termcolor', 'addict'
 ]
 
 # What packages are optional?
