@@ -1,2 +1,2 @@
-# MyFramework
-My deeplearning framework for personal use. So many features need to be added.
+# Framework
+Deeplearning framework for personal use. So many features need to be added.
